@@ -1,6 +1,6 @@
 amqp==2.5.2
 billiard==3.6.3.0
-celery==4.4.2
+celery==5.2.2
 cffi==1.14.0
 gevent==20.5.0
 greenlet==0.4.15
